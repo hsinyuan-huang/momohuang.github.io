@@ -7,5 +7,3 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Redirect to <a href="https://hsinyuan-huang.github.io/">hsinyuan-huang.github.io</a>
