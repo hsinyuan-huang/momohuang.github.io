@@ -3,10 +3,10 @@ permalink: /
 title: "About"
 excerpt: "About me"
 author_profile: true
+redirect_to: https://hsinyuan-huang.github.io/
 redirect_from:
   - /about/
   - /about.html
-redirect_to: https://hsinyuan-huang.github.io/
 ---
 
 I am Hsin-Yuan Huang (黃信元), a Ph.D. student at California Institute of Technology (Caltech) advised by <a href="https://scholar.google.com/citations?user=xmOSptwAAAAJ&hl=en" target="_blank">John Preskill</a> and <a href="https://scholar.google.com/citations?user=IGDs4HwAAAAJ&hl=en" target="_blank">Thomas Vidick</a>. I also go by the name Robert.
